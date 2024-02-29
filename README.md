@@ -8,7 +8,7 @@ This is a public repository for the paper titled above, containing supplementary
 * **Supplementary video:** https://vimeo.com/892692734
 
 ## Repository contents
-* Parametric CAD files for the FlowBot designs described in the paper, and demonstrated in the Supplementary Video:
+* CAD files for the FlowBot designs described in the paper, and demonstrated in the Supplementary Video:
   * Bidirectional actuator
   * Gripper
   * Quadruped with swimming gait
