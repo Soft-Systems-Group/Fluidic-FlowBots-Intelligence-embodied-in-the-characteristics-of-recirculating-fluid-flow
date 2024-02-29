@@ -4,9 +4,7 @@ This is a public repository for the paper titled above, containing supplementary
 
 ## Links to:
 **Preprint PDF:** https://arxiv.org/abs/2312.05198
-
 **Supplementary PDF:** https://arxiv.org/src/2312.05198v1/anc/supplementary_material.pdf
-
 **Supplementary video:** https://vimeo.com/892692734
 
 The repository contains the following files, which are a supplement to the main paper:
