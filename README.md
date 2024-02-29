@@ -1,14 +1,14 @@
 # Fluidic FlowBots: Intelligence embodied in the characteristics of recirculating fluid flow
 ## Accepted to RoboSoft '24, preprint available (arXiv:2312.05198v1)
-This is a public repository for the paper titled above, containing supplementary files, shared to the benefits of others in the field who are interested in exploring the concepts described in the published paper.
+This is a public repository for the paper titled above, containing supplementary files, shared for the benefit of others in the field who are interested in further exploration of the concepts described in the published paper.
 
 ## Links to:
-**Preprint PDF:** https://arxiv.org/abs/2312.05198
-**Supplementary PDF:** https://arxiv.org/src/2312.05198v1/anc/supplementary_material.pdf
-**Supplementary video:** https://vimeo.com/892692734
+* **Preprint PDF:** https://arxiv.org/abs/2312.05198
+* **Supplementary PDF:** https://arxiv.org/src/2312.05198v1/anc/supplementary_material.pdf
+* **Supplementary video:** https://vimeo.com/892692734
 
-The repository contains the following files, which are a supplement to the main paper:
-* Parametric CAD files for the FlowBot described in the paper, and demonstrated in the Supplementary Video:
+## Repository contents
+* Parametric CAD files for the FlowBot designs described in the paper, and demonstrated in the Supplementary Video:
   * Bidirectional actuator
   * Gripper
   * Quadruped with swimming gait
